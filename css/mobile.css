@@ -1,0 +1,30 @@
+@media (max-width:600px) {
+
+  .products
+  {
+    display: inherit;
+    height: auto;
+    max-height: none;
+    padding: 10px;
+  }
+
+  .product
+  {
+    margin: auto;
+    margin-top: 5px;
+  }
+
+  .benefits-section
+  {
+    display: inherit;
+  }
+  .benefit
+  {
+    margin: auto;
+  }
+
+  .mention-cards
+  {
+    display: block;
+  }
+}
